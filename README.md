@@ -20,7 +20,7 @@ Predictive Model for EPL Player Performance with GUI
 Predictive_Model_GUI/
 ├── data/           # Store datasets here
 ├── scripts/        # Python scripts (ML, GUI) here
-├── docs/           # Any documentation or references
+├── testing/           # Testing code
 ├── README.md       # Project overview
 └── .gitignore      # Ignore unnecessary files (e.g., .pyc, __pycache__, dataset files)
 </pre>
