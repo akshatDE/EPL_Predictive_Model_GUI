@@ -11,7 +11,6 @@ Predictive Model for EPL Player Performance with GUI
 ## Technologies Used:
 - <ul>
   <li>Python (pandas, scikit-learn, PyQt)</li>
-  <li>SQLite for data storage</li>
   <li>GitHub for version control and project management</li>
 </ul>
 
